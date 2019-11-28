@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PetService－寵物服務家族</string>
+    <string name="name">寵物服務家族</string>
+    <string name="name2">了解您寵物的心</string>
+    <string name="service">❤最專業的團隊 給您最完美的服務❤</string>
+    <string name="info">組別:4\n
+        組名:PandaFood\n
+        團隊名單:謝順安、盧佳宏\n張文欽、杜開嵐\n
+        聯絡電話:0800-092-000\n</string>
+    <string name="qrcode">✯快掃QR Code\n
+    加入我們➜➜➜</string>
+    <string name="can">罐頭</string>
+    <string name="feed">飼料</string>
+    <string name="cook">現煮</string>
+    <string name="park">公園</string>
+    <string name="outskirt">郊外</string>
+    <string name="sea">海邊</string>
+    <string name="top">回主頁面</string>
+    <string name="enter">確認購買</string>
+    <string name="replay">重新選擇</string>
+    <string name="buy">結帳</string>
+
+</resources>
